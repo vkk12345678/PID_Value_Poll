@@ -1,0 +1,8 @@
+C:\Modbus Poll CS\Backup1\Modbus Poll CS\bin\Debug\Modbus Poll CS.exe
+C:\Modbus Poll CS\Backup1\Modbus Poll CS\bin\Debug\Modbus Poll CS.pdb
+C:\Modbus Poll CS\Backup1\Modbus Poll CS\obj\Debug\ResolveAssemblyReference.cache
+C:\Modbus Poll CS\Backup1\Modbus Poll CS\obj\Debug\Modbus_Poll_CS.Form1.resources
+C:\Modbus Poll CS\Backup1\Modbus Poll CS\obj\Debug\Modbus_Poll_CS.Properties.Resources.resources
+C:\Modbus Poll CS\Backup1\Modbus Poll CS\obj\Debug\Modbus Poll CS.csproj.GenerateResource.Cache
+C:\Modbus Poll CS\Backup1\Modbus Poll CS\obj\Debug\Modbus Poll CS.exe
+C:\Modbus Poll CS\Backup1\Modbus Poll CS\obj\Debug\Modbus Poll CS.pdb

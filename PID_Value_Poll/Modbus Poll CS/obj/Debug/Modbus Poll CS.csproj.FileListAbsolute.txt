@@ -1,0 +1,40 @@
+F:\Mb_CSharp_004\Modbus Poll CS\Modbus Poll CS\obj\Debug\Modbus Poll CS.exe
+F:\Mb_CSharp_004\Modbus Poll CS\Modbus Poll CS\obj\Debug\Modbus Poll CS.pdb
+F:\Mb_CSharp_004\Modbus Poll CS\Modbus Poll CS\bin\Debug\Modbus Poll CS.exe
+F:\Mb_CSharp_004\Modbus Poll CS\Modbus Poll CS\bin\Debug\Modbus Poll CS.pdb
+F:\Mb_CSharp_004\Modbus Poll CS\Modbus Poll CS\obj\Debug\ResolveAssemblyReference.cache
+F:\Mb_CSharp_004\Modbus Poll CS\Modbus Poll CS\obj\Debug\Modbus_Poll_CS.Form1.resources
+F:\Mb_CSharp_004\Modbus Poll CS\Modbus Poll CS\obj\Debug\Modbus_Poll_CS.Properties.Resources.resources
+F:\Mb_CSharp_004\Modbus Poll CS\Modbus Poll CS\obj\Debug\Modbus Poll CS.csproj.GenerateResource.Cache
+C:\Mb_CSharp_004\Modbus Poll CS\Modbus Poll CS\obj\Debug\Modbus Poll CS.exe
+C:\Mb_CSharp_004\Modbus Poll CS\Modbus Poll CS\obj\Debug\Modbus Poll CS.pdb
+C:\Mb_CSharp_004\Modbus Poll CS\Modbus Poll CS\bin\Debug\Modbus Poll CS.exe
+C:\Mb_CSharp_004\Modbus Poll CS\Modbus Poll CS\bin\Debug\Modbus Poll CS.pdb
+C:\Mb_CSharp_004\Modbus Poll CS\Modbus Poll CS\obj\Debug\ResolveAssemblyReference.cache
+C:\Mb_CSharp_004\Modbus Poll CS\Modbus Poll CS\obj\Debug\Modbus_Poll_CS.Form1.resources
+C:\Mb_CSharp_004\Modbus Poll CS\Modbus Poll CS\obj\Debug\Modbus_Poll_CS.Properties.Resources.resources
+C:\Mb_CSharp_004\Modbus Poll CS\Modbus Poll CS\obj\Debug\Modbus Poll CS.csproj.GenerateResource.Cache
+C:\Mb_CSharp_005\Modbus Poll CS\Modbus Poll CS\obj\Debug\Modbus Poll CS.exe
+C:\Mb_CSharp_005\Modbus Poll CS\Modbus Poll CS\obj\Debug\Modbus Poll CS.pdb
+E:\Mb_CSharp_004\Modbus Poll CS\Modbus Poll CS\obj\Debug\Modbus Poll CS.exe
+E:\Mb_CSharp_004\Modbus Poll CS\Modbus Poll CS\obj\Debug\Modbus Poll CS.pdb
+E:\Mb_CSharp_004\Modbus Poll CS\Modbus Poll CS\bin\Debug\Modbus Poll CS.exe
+E:\Mb_CSharp_004\Modbus Poll CS\Modbus Poll CS\bin\Debug\Modbus Poll CS.pdb
+E:\Mb_CSharp_004\Modbus Poll CS\Modbus Poll CS\obj\Debug\ResolveAssemblyReference.cache
+E:\Mb_CSharp_004\Modbus Poll CS\Modbus Poll CS\obj\Debug\Modbus_Poll_CS.Form1.resources
+E:\Mb_CSharp_004\Modbus Poll CS\Modbus Poll CS\obj\Debug\Modbus_Poll_CS.Properties.Resources.resources
+E:\Mb_CSharp_004\Modbus Poll CS\Modbus Poll CS\obj\Debug\Modbus Poll CS.csproj.GenerateResource.Cache
+C:\Modbus Poll CS\Modbus Poll CS\obj\Debug\Modbus Poll CS.exe
+C:\Modbus Poll CS\Modbus Poll CS\obj\Debug\Modbus Poll CS.pdb
+C:\Modbus Poll CS\Modbus Poll CS\bin\Debug\Modbus Poll CS.exe
+C:\Modbus Poll CS\Modbus Poll CS\bin\Debug\Modbus Poll CS.pdb
+C:\Modbus Poll CS\Modbus Poll CS\obj\Debug\ResolveAssemblyReference.cache
+C:\Modbus Poll CS\Modbus Poll CS\obj\Debug\Modbus_Poll_CS.Form1.resources
+C:\Modbus Poll CS\Modbus Poll CS\obj\Debug\Modbus_Poll_CS.Properties.Resources.resources
+C:\Modbus Poll CS\Modbus Poll CS\obj\Debug\Modbus Poll CS.csproj.GenerateResource.Cache
+G:\Modbus Poll CS\Modbus Poll CS\obj\Debug\Modbus Poll CS.exe
+G:\Modbus Poll CS\Modbus Poll CS\obj\Debug\Modbus Poll CS.pdb
+C:\PID_Value_Poll\Modbus Poll CS\obj\Debug\Modbus Poll CS.exe
+C:\PID_Value_Poll\Modbus Poll CS\obj\Debug\Modbus Poll CS.pdb
+C:\Users\Administrator\Desktop\PID_Value_Poll\PID_Value_Poll\Modbus Poll CS\obj\Debug\Modbus Poll CS.exe
+C:\Users\Administrator\Desktop\PID_Value_Poll\PID_Value_Poll\Modbus Poll CS\obj\Debug\Modbus Poll CS.pdb

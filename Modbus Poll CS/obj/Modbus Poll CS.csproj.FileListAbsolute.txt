@@ -1,0 +1,8 @@
+C:\Mb_CSharp_004\Modbus Poll CS\Modbus Poll CS\obj\Debug\Modbus Poll CS.exe
+C:\Mb_CSharp_004\Modbus Poll CS\Modbus Poll CS\obj\Debug\Modbus Poll CS.pdb
+C:\Mb_CSharp_004\Modbus Poll CS\Modbus Poll CS\bin\Debug\Modbus Poll CS.exe
+C:\Mb_CSharp_004\Modbus Poll CS\Modbus Poll CS\bin\Debug\Modbus Poll CS.pdb
+C:\Mb_CSharp_004\Modbus Poll CS\Modbus Poll CS\obj\Debug\ResolveAssemblyReference.cache
+C:\Mb_CSharp_004\Modbus Poll CS\Modbus Poll CS\obj\Debug\Modbus_Poll_CS.Form1.resources
+C:\Mb_CSharp_004\Modbus Poll CS\Modbus Poll CS\obj\Debug\Modbus_Poll_CS.Properties.Resources.resources
+C:\Mb_CSharp_004\Modbus Poll CS\Modbus Poll CS\obj\Debug\Modbus Poll CS.csproj.GenerateResource.Cache
